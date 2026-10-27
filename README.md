@@ -18,7 +18,7 @@
 ### 📊 Mi actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlbertoArgudo&theme=react-dark&hide_border=true&area=true" width="100%" alt="Actividad Reciente" />
+  <img src="https://raw.githubusercontent.com/AlbertoArgudo/AlbertoArgudo/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
